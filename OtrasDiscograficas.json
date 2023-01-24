@@ -1,0 +1,25 @@
+[{
+    "id": 1,
+    "titulo": "GLOBAL RECORDS",
+    "srcimg": "https://i1.sndcdn.com/avatars-000614176245-esxoag-t500x500.jpg",
+    "alt": "Logotipo de Global Records",
+    "texto": "Global Records es la discográfica perfecta para los fans del pop",
+    "url": "https://globalrecords.com//"
+},
+{
+    "id": 2,
+    "titulo": "SPINNIN' RECORDS",
+    "srcimg": "https://res.cloudinary.com/shotgun/image/upload/v1663429510/production/artworks/artists/Spinnin__Records.jpg",
+    "alt": "Logotipo de Spinnin' Records",
+    "texto": "Spinnin's Record es la discográfica perfecta para los fans del EDM",
+    "url": "https://spinninrecords.com/"
+},
+{
+    "id": 3,
+    "titulo": "EMI CLASSICS",
+    "srcimg": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/EMI_Classics_logo.svg/300px-EMI_Classics_logo.svg.png",
+    "alt": "Logotipo de EMI Classics",
+    "texto": "EMI Classics es la discogafica perfecta para los amantes de la música clasica",
+    "url": "https://shop.emi.com/artists/?utm_campaign=DomainRedirect&utm_content=DomainRedirect&utm_medium=Referral&utm_source=DomainRedirect%2F"
+}
+]

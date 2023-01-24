@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "titulo": "‘Goma, 14 de abril’: la nueva vida de uno de los mejores discos incomprendidos del rock español",
+        "srcimg": "https://imagenes.elpais.com/resizer/uIAkzW26-1w0GVk3rpkK-3HNFMg=/414x311/filters:focal(1445x1425:1455x1435)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/C4UTE77ZE5GUNKJTCRLOZRGPDE.jpg",
+        "alt": "Imagen de Goma",
+        "texto": "El guitarrista Manuel Imán revisita 47 años después el único disco del grupo sevillano Goma, una banda que se disolvió mientras grababa este trabajo experimental y reivindicado con el tiempo.",
+        "url": "https://elpais.com/cultura/2023-01-14/goma-14-de-abril-la-nueva-vida-de-uno-de-los-mejores-discos-incomprendidos-del-rock-espanol.html"
+    },
+    {
+        "id": 2,
+        "titulo": "Muere el legendario guitarrista Jeff Beck a los 78 años",
+        "srcimg": "https://imagenes.elpais.com/resizer/_y5C6IndTZ7fOqw6GtPKWdZUk0s=/414x311/cloudfront-eu-central-1.images.arcpublishing.com/prisa/3DXRVEUJMP2HYRGRTWCEVMPYBY.jpg",
+        "alt": "Logotipo de EMI Classics",
+        "texto": "Considerado uno de los mejores guitarristas de la historia del rock, Jeff Beck ha fallecido el día de ayer 10 de enero a los 78 años. Según un comunicado que emitió su familia, el motivo del deceso habría sido una meningitis bacteriana que contrajo de manera sorpresiva.",
+        "url": "https://elpais.com/cultura/2023-01-11/muere-el-legendario-guitarrista-jeff-beck-a-los-78-anos.html"
+    },
+    {
+        "id": 3,
+        "titulo": "Las mentiras que dinamitaron la carrera de The Doors",
+        "srcimg": "https://imagenes.elpais.com/resizer/VFvjrtQsClz4wF7DtXBF-ZrPznQ=/414x311/filters:focal(1615x800:1625x810)/cloudfront-eu-central-1.images.arcpublishing.com/prisa/S2B2OXMQQZH5FDBYEVHL3LTFCI.jpg",
+        "alt": "Imagen de The Doors",
+        "texto": " El guitarrista del cuarteto, Robby Krieger, edita un libro donde desmiente historias sobre el grupo, desbroza la personalidad de Jim Morrison y detalla la historia de una banda capital del rock.",
+        "url": "https://elpais.com/cultura/2023-01-11/muere-el-legendario-guitarrista-jeff-beck-a-los-78-anos.html"
+    }
+    ]
